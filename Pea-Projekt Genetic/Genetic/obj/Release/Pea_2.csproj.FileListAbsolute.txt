@@ -12,3 +12,5 @@ E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\bin\Release\Cities.txt
 E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\bin\Release\TSP.exe
 E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\bin\Release\TSP.pdb
 E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\obj\Release\Pea_2.csprojResolveAssemblyReference.cache
+D:\GIT\TravellingSalesman-Genetic\Pea-Projekt Genetic\Genetic\obj\Release\TSP.exe
+D:\GIT\TravellingSalesman-Genetic\Pea-Projekt Genetic\Genetic\obj\Release\TSP.pdb
