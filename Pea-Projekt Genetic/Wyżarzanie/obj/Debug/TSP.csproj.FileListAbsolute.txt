@@ -1,0 +1,8 @@
+D:\PEA\TSP\bin\Debug\Cities.txt
+D:\PEA\TSP\bin\Debug\TSP.exe
+D:\PEA\TSP\bin\Debug\TSP.pdb
+D:\PEA\TSP\obj\Debug\TSP.exe
+D:\PEA\TSP\obj\Debug\TSP.pdb
+D:\pea\TSP\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+G:\Pea-Projekt nr2(wyżarzanie)\TSP\obj\Debug\TSP.exe
+G:\Pea-Projekt nr2(wyżarzanie)\TSP\obj\Debug\TSP.pdb

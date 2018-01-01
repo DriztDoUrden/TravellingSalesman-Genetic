@@ -1,0 +1,12 @@
+D:\pea\TSP\bin\Release\Cities.txt
+D:\pea\TSP\bin\Release\TSP.exe
+D:\pea\TSP\bin\Release\TSP.pdb
+D:\pea\TSP\obj\Release\TSP.exe
+D:\pea\TSP\obj\Release\TSP.pdb
+D:\pea\TSP\obj\Release\TSP.csprojResolveAssemblyReference.cache
+G:\Pea-Projekt nr2(wyżarzanie)\TSP\obj\Release\TSP.exe
+G:\Pea-Projekt nr2(wyżarzanie)\TSP\obj\Release\TSP.pdb
+G:\Pea-Projekt nr2(wyżarzanie)\TSP\bin\Release\Cities.txt
+G:\Pea-Projekt nr2(wyżarzanie)\TSP\bin\Release\TSP.exe
+G:\Pea-Projekt nr2(wyżarzanie)\TSP\bin\Release\TSP.pdb
+G:\Pea-Projekt nr2(wyżarzanie)\TSP\obj\Release\TSP.csprojResolveAssemblyReference.cache

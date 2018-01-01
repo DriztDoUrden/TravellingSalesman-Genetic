@@ -1,0 +1,5 @@
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\obj\Debug\TSP.exe
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\obj\Debug\TSP.pdb
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\bin\Debug\Cities.txt
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\bin\Debug\TSP.exe
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\bin\Debug\TSP.pdb

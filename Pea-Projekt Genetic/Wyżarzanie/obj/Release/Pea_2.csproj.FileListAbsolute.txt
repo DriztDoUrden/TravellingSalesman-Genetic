@@ -1,0 +1,14 @@
+G:\Pea-Projekt nr2(wyżarzanie)\Wyżarzanie\obj\Release\TSP.exe
+G:\Pea-Projekt nr2(wyżarzanie)\Wyżarzanie\obj\Release\TSP.pdb
+G:\Pea-Projekt nr2(wyżarzanie)\Wyżarzanie\bin\Release\Cities.txt
+G:\Pea-Projekt nr2(wyżarzanie)\Wyżarzanie\bin\Release\TSP.exe
+G:\Pea-Projekt nr2(wyżarzanie)\Wyżarzanie\bin\Release\TSP.pdb
+G:\Pea-Projekt nr2(wyżarzanie)\Wyżarzanie\obj\Release\Pea_2.csprojResolveAssemblyReference.cache
+G:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\obj\Release\TSP.exe
+G:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\obj\Release\TSP.pdb
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\obj\Release\TSP.exe
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\obj\Release\TSP.pdb
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\bin\Release\Cities.txt
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\bin\Release\TSP.exe
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\bin\Release\TSP.pdb
+E:\Pea-Projekt nr 3 (genetyczny)\Wyżarzanie\obj\Release\Pea_2.csprojResolveAssemblyReference.cache
